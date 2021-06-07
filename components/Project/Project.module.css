@@ -1,0 +1,22 @@
+.projectContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 88px;
+}
+
+.projectImage, .projectDescription {
+  width: 50%;
+}
+
+.projectDescription {
+  padding-left: 90px;
+}
+
+.projectTitle {
+  font-size: 30px;
+  margin-bottom: 18px;
+}
+
+.projectInfo {
+  margin-bottom: 18px;
+}

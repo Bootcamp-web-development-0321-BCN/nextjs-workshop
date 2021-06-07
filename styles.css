@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p, h1, h2, h3 {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+h1, h2 {
+  font-size: 60px;
+  line-height: 84px;
+  width: 80%;
+}
+
+.page-container {
+  width: 94%;
+  margin: 0 auto;
+  max-width: 1440px;
+  margin-top: 100px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
